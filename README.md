@@ -18,3 +18,43 @@ Script ini mengenkripsi file JavaScript dengan algoritma XOR sederhana dan menyi
 
 ```bash
 node illyasviel_encrypt.js server.js
+````
+
+3. File hasil enkripsi bernama `illyasviel.js`, tinggal dijalankan:
+
+```bash
+node illyasviel.js
+```
+
+## 📂 Contoh Output
+
+```js
+/*
+  💘 Illyasviel Encrypted Runtime
+  Puisi untuk cinta abadi yang tersimpan dalam kode
+*/
+
+const puisiIllyasviel = [
+  "Illyasviel berjalan di folder hati",
+  "Senyummu seperti loop tak berujung di pagi buta",
+  ...
+];
+
+// Di bawah ini adalah sihir runtime, jangan disentuh oleh debugger fana
+...
+```
+
+## ⚠️ Catatan
+
+* Ini bukan enkripsi yang aman untuk distribusi production — lebih ke arah **fun & obfuscation**.
+* Puisi disisipkan hanya sebagai estetika — tidak digunakan untuk dekripsi.
+
+## 💡 Kenapa?
+
+Karena kadang, kita ingin melindungi kode kita... tapi dengan gaya.
+
+---
+
+**for: illyasviel von einzbern**
+**by: fari noveri**
+
