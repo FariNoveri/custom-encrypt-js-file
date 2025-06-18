@@ -53,6 +53,8 @@ const puisiIllyasviel = [
 
 Karena kadang, kita ingin melindungi kode kita... tapi dengan gaya.
 
+---
+
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/c25a0b57-2885-490f-b8f6-f300e131b6f8)
 
